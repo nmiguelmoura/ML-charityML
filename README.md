@@ -2,7 +2,7 @@
 ## Project: Finding Donors for CharityML
 
 ### Exercise
-This project is an exercise from Udacity Nanodegree Machine Leraning program.
+This project is part of Udacity Nanodegree Machine Learning program.
 
 ### Install
 
@@ -14,6 +14,14 @@ This project requires **Python 2.7** and the following Python libraries installe
 - [scikit-learn](http://scikit-learn.org/stable/)
 
 It also needs to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
+
+To run the file `xgboost_implementation.py` its necessary to install **XGBoost** algorithm:
+
+```sudo pip install xgboost```
+
+or through anaconda:
+
+```conda install -c msarahan py-xgboost```
 
 ### Code
 
